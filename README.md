@@ -34,5 +34,25 @@ This is a repo intended to list and describe new English words from diversified 
   - We sell pies, cakes, and other baked goods.
 - **thorough**: careful and covering every detail (completo, minucioso, perfeito)
   - She wrote a very thorough report on the matter.
-- 
+-  **degrees of freedom**: each of a number of independently variable factors affecting the range of states in which a system may exist, in particular any of the directions in which independent motion can occur (grau de liberdade)
+- **chore**: a job or piece of work that needs to be done often (tarefa)
+  - The household chores.
+  - I'll go shopping when I've done my chores.
+- **excelled**: to be extremely good at something (destacar-se, sobressair)
+  - Rebecca always excelled in languages at school.
+- **mastered**: acquire complete knowledge or skill in (an accomplishment, technique, or art). (dominar, controlar)
+  - I never mastered Latin.
+- **prior (adjective)**: existing or happening before something else, or before a particular time (prévio)
+  - The course required no prior knowledge of Spanish.
+  - They had to refuse the dinner invitation because of a prior engagement (something already planned for that time).
+- **prior to sth**: before a particular time or event (antes de algo)
+  - the weeks prior to her death
+- **prior (formal)**: more important (prioritário)
+  - Mothers with young children have a prior claim on funds
+- **prior (noun)**: a man who is in change of a priory or who is second in charge of an abbey (prior)
+- **abbey**: a group of buildings that includes a large Christian church, where religious men or women once lived (abadia, mosteiro, convento)
+  - Westminster Abbey
+- **well-lit**: bem iluminado
+- **attire**: clothes, especially of a particular or formal type (traje)
+  - I hardly think jeans are appropriate 
 
