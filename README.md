@@ -19,5 +19,20 @@ This is a repo intended to list and describe new English words from diversified 
   - the incoming government;
   - What are the biggest problems faced by the incoming president?
   - _US_ Incoming freshmen (students  in the first year at college) start a week before everyone else.
+- **clerical**: relating to work done in an office (de escritório, administrativo)
+  - a clerical assistant.
+- **fulfilled**: feeling happy because you are getting everything that you want from life (realizado, pode ser realizado das tarefas de escritório)
+  - For the first time in my life, I fell really fulfilled.
+- **one-on-one**: A one-on-one activity involves two people talking directly, usually with one teaching or giving information to the other (em particular, individualizado)
+  - Each employee has a one-on-one performance review with his or her boss.
+  - It's best to talk with him about the problem one-on-one.
+- **accountant**: someone whose job is keeping records of all the money that people or companies spend and earn (contador/a, contabilista
+- **liaison**: communication between people or groups who work with each other (ligação, contato, conexão)
+  - He blamed the lack of liaison between the various government departments.
+  - The police have appointed a liaison officer to work with the local community.
+- **to sell goods and services**: (minha dúvida foi no uso do _goods_) items that are made to be sold (bens, produtos)
+  - We sell pies, cakes, and other baked goods.
+- **thorough**: careful and covering every detail (completo, minucioso, perfeito)
+  - She wrote a very thorough report on the matter.
 - 
 
