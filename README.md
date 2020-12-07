@@ -119,3 +119,8 @@ This is a repo intended to list and describe new English words from diversified 
   - I have a low/high boredom threshold (= I do/don't feel bored easily)
 - **rinse**: to use water to clean the soap or dirt from something (lavagem, enxague, passar água):
   - First apply shampoo to hair and then rinse thoroughly (completely, very much).
+- **crane**: a large machine used for lifting and moving heavy things (guindaste):
+  - move (a heavy object) with a crane.
+- **loosely**: in a way that is not firmly held or attached (vagamente):
+  - the parcel (pacote) had only been loosely wrapped, and the paper had come off.
+  - Captain is a loosely translation from Greek to Kubernetes.
