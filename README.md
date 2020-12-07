@@ -54,5 +54,68 @@ This is a repo intended to list and describe new English words from diversified 
   - Westminster Abbey
 - **well-lit**: bem iluminado
 - **attire**: clothes, especially of a particular or formal type (traje)
-  - I hardly think jeans are appropriate 
+  - I hardly think jeans are appropriate
 
+👉 [Microsoft Training Azure Fundamentas](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing)
+- **crux**: the most important or serious part of a matter, problem, or argument (ponto crucial, nó, dificuldade)
+  - The crux of the country's economic problems is its foreign debt.
+  - The issue of an arms embargo will be at the crux of the negotiations in Geneva.
+- **dough**: a thick mixture of flour and liquid used to make foods such as bread and pastry (massa, de pizza por exemplo)
+  - add water to the flour and mix to a manageable dough.
+- **toppings**: a substance, especially a sauce or pieces of food, that is put on top of the other food to give extra flavour and to make it look attractive (cobertura, recheio, molho)
+  - pizza topping.
+  - What toppings did you put on your ice cream?
+- **oven**: a piece of kitchen equipment that is used for cooking food (forno)
+  - an eletric oven
+- **adhere**: to stick firmly (aderir)
+  - A smooth, dry surface helps the tiles adhere to the wall
+- **adhere to sth**: to continue to obey a rule or have a belief:
+  - She adhere to her principles/ideals throughout her life.
+  - They failed to adhere to the terms of the agreement/treaty.
+  - The translator has obviously adhered very strictly to the original text.
+- **subset**: a set (= a group of similar numbers, objects, or people) that is part of another, larger set (subconjunto)
+  - computer vendors usually only support a small subset of the disks available.
+- **outage**: a period when a service, such as electricity, is not available:
+  - The radio news reported power outages affecting 50 homes.
+- **roll out**: to make a new product, service, or system available for the first time (lançar, updates por exemplo)
+  - A media campaign is expected to roll out early next year.
+  - System updates are rolled out often.
+- **to roam**: to move about or travel, especially without a clear ideia of what you are going to do (vaguear):
+  - After the bars close, gangs of youths roam the city streets.
+- **likely**: if something is likely, it will probably happen or is expected (provável)
+  - Do remind me because I'm likely to forget.
+  - Is it likely? Yes, It is.
+- **rep**: short for representative (Representante), most of the times a Seller
+  - Reps must maintain $500 a month in sales.
+- **roundabout**: a place where three or more roads join and traffic must go around a circular area in the middle, rather than straight across (rotatória, rotunda):
+  - Take the first left at the roundabout.
+- **withstand**: to be strong enough, or not be changed by something, or to oppose a person or thing successfully (resistir, suportar, aguentar):
+  - a bridge designed to withstand earthquakes.
+- **boundary**: a real or imagined line that marks the edge or limit of something (fronteira, limite, marco, divisão):
+  - Residents are opposed to the prison being built within the city boundary.
+- **counterpart**: a person or thing that has the same purpose as another one in a different place or organization (contrapartida):
+  - The prime minister is to meet his European counterparts to discuss the war against drugs.
+- **tenant**: person who pays rent for the use of land or a building (inquilino/a)
+  - Tenants are complaining that vital repairs are not being done.
+- **standpoint**: a set of beliefs and ideas from which opinions and decisions are formed (ponto de vista):
+  - I have to put aside my emotions, "he says", "and consider it from a professional standpoint".
+- **cog or cog wheel**: one of the tooth-like parts around the edge of a wheel in a machine that fits between those of a similar wheel, causing both wheels to move (engrenagem, quando se referir ao ícone de configurações):
+- **outgrow**: to grow bigger than or too big for something (crescer excessivamente):
+  - My seven-year-old got new shoes in April, and he's already outgrown them (= his feet have grown too large for them).
+  - The company outgrew (= become too large for) its office space.
+- **fairly**: more than average, but less than very (bastante, relativamente, razoavelmente, justamente) (= poderia usar **quite**):
+  - She's fairly tall.
+  - I'm fairly sure that this is the right address.
+- **headroom**: the amount of space below a roof or bridge (espaço livre, refere-se também ao espaço livre em Hard Disks):
+  - It's a small car but there's lots of headroom.
+- **inbound**: de entrada (refere-se a inbound port rule, ou regras da porta de entrada, quando em uma rede de computadores)
+- **up-charge**: a charge or payment that is additional to the usual or basic price; a supercharge (aumentar)
+  - a gluten-free crust option is available for a small upcharge on all pizzas.
+- **uniqueness**: the quality of being unique (= unusual, or special in some way)(singularidade):
+  - The government doesn't understand the uniqueness of out situation and the need for bigger subsidies.
+- **dust sth off**: to prepare something for use, especially after it has not been used for a long time: (tirar a poeira, para uso novamente)
+  - It's time to dust off the old chemistry book and start studying.
+- **threshold**: the floor of an entrance to a building or room. Also the level or point at which you start to experience something, or at which something starts to happen (limite):
+  - I have a low/high boredom threshold (= I do/don't feel bored easily)
+- **rinse**: to use water to clean the soap or dirt from something (lavagem, enxague, passar água):
+  - First apply shampoo to hair and then rinse thoroughly (completely, very much).
