@@ -124,3 +124,25 @@ This is a repo intended to list and describe new English words from diversified 
 - **loosely**: in a way that is not firmly held or attached (vagamente):
   - the parcel (pacote) had only been loosely wrapped, and the paper had come off.
   - Captain is a loosely translation from Greek to Kubernetes.
+- **egress**: the act or way of leaving a place (saída, egresso):
+  - The main egress from the restaurant had been blocked off.
+  - This is the egress traffic charges (taxas de saída de tráfego)
+- **poaching**:
+  - **to cook something such as a fish, or an egg with its shell removed, by putting it in gently boiling water or other liquid**:
+    - We had poached eggs for breakfast.
+    - Do you like pears poached in red wine?
+  - **to catch and kill animals without permission on someone else's land**(caça furtiva):
+    - The farmer claimed that he shot the men because they were poaching on his land.
+    - There are a [project](https://devblogs.microsoft.com/cse/2019/05/07/preventing-rhino-poaching-though-microsoft-azure/) for catching Rhino **poacher** in Africa by using IoT.
+  - **to take and use for yourself unfairly or dishonestly something, usually an idea, that belongs to someone else**:
+    - Jeff always poaches my ideias, and then pretends that they're his own.
+  - **to persuade someone who works for someone else to come and work for you**:
+    - They were furious when one of their best managers was poached by another company.
+- **string sth up**: to tie or fix the ends of a long, thin object to two points that are high up, allowing the rest of it to hang freely (amarrar):
+  - Let's string up a banner at the front of the house to welcome him home.
+- **caveat**: a warning to consider something before taking any more action, or a statement that limits a more general statement (embargo):
+  - He agreed to the interview, with the caveat that he could approve the final article.
+- **attendance**: the fact of going somewhere such as a church, school, etc. regularly (comparecimento, presença, frequencia) or number of people who go to an event, meeting, etc:
+  - Attendance at lectures is compulsory.
+  - Attendances at the church are falling.
+- ****:
