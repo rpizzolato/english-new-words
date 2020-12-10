@@ -145,4 +145,8 @@ This is a repo intended to list and describe new English words from diversified 
 - **attendance**: the fact of going somewhere such as a church, school, etc. regularly (comparecimento, presença, frequencia) or number of people who go to an event, meeting, etc:
   - Attendance at lectures is compulsory.
   - Attendances at the church are falling.
-- ****:
+- **crunchy**: crunchy food is firm and makes a loud noise when it is eaten (crocante) (no curso cita como uma parede, que é dura, para evitar invasão):
+  - crunchy vegetables
+- **chewy**: Chewy food needs to be chewed (chew = to crush food into smaller, softer pieces with the teeth so that it can be swallowed) a lot before it is swallowed (mastigável, dura, fibroso):
+  - The meat was tasteless and chewy.
+- **nosebleed section**: In the United States and Canada, the nosebleed section are the seats of a public area, usually an athletic stadium or gymnasium, that are highest and, usually, farthest from the desired activity. Reference took from [Wikipedia](https://en.wikipedia.org/wiki/Nosebleed_section).
