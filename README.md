@@ -1,8 +1,13 @@
 # 🎓 New words in English
 This is a repo intended to list and describe new English words from diversified subjects found during my reads on the Internet (I'm in a working progress to learn more and more 😉). The most of translation and examples are from Cambridge Dictionary and Google Translate or from the own article. If you find a mistake, please report it to me by using [Issues](https://github.com/rpizzolato/english-new-words/issues) option, I'm going to be very appreciated!😊
 
-## list of words
-👉 [How to Find a Remote Job - Indeed Article](https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-remote-job?from=career_guide_email&isid=careeradvice-us&ikw=career_guide_newsletter_2020_08_26_jsx_for_cg_us_template_a&utm_campaign=jsx_for_cg&utm_source=jobseeker_email&utm_medium=email)
+
+## Sumary
+🔗[How to Find a Remote Job - Indeed Article](#How-to-Find-a-Remote-Job-Indeed-Article)<br />
+🔗[Microsoft Training Azure Fundamentas](#Microsoft-Training-Azure-Fundamentas)<br />
+
+### How to Find a Remote Job - Indeed Article
+🌎 [How to Find a Remote Job - Indeed Article](https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-remote-job?from=career_guide_email&isid=careeradvice-us&ikw=career_guide_newsletter_2020_08_26_jsx_for_cg_us_template_a&utm_campaign=jsx_for_cg&utm_source=jobseeker_email&utm_medium=email)
 - **midst**: the middle of a group of people or things (meio)
   - She caught sight of Johnny in their midst (= among them), laughing and talking;
 - **outline**: the shape made by the outside edge of something (esboço, contorno)
@@ -56,7 +61,8 @@ This is a repo intended to list and describe new English words from diversified 
 - **attire**: clothes, especially of a particular or formal type (traje)
   - I hardly think jeans are appropriate
 
-👉 [Microsoft Training Azure Fundamentas](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing)
+### Microsoft Training Azure Fundamentas
+🌎 [Microsoft Training Azure Fundamentas](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing) | [back to sumary ☝️](#Sumary)
 - **crux**: the most important or serious part of a matter, problem, or argument (ponto crucial, nó, dificuldade)
   - The crux of the country's economic problems is its foreign debt.
   - The issue of an arms embargo will be at the crux of the negotiations in Geneva.
@@ -150,3 +156,84 @@ This is a repo intended to list and describe new English words from diversified 
 - **chewy**: Chewy food needs to be chewed (chew = to crush food into smaller, softer pieces with the teeth so that it can be swallowed) a lot before it is swallowed (mastigável, dura, fibroso):
   - The meat was tasteless and chewy.
 - **nosebleed section**: In the United States and Canada, the nosebleed section are the seats of a public area, usually an athletic stadium or gymnasium, that are highest and, usually, farthest from the desired activity. Reference took from [Wikipedia](https://en.wikipedia.org/wiki/Nosebleed_section).
+- **betcha**: short form of "bet you" meaning that you are very sure about something (eu aposto):
+  - I betcha some of them even considered leaving the team.
+- **lengthen**: to make something longer, or to become longer (alongar):
+  - I'll have to lengthen this skirt.
+  - lengthening waiting lists.
+- **thwarted**: to stop something from happening or someone from doing something (contrariar, frustar, impedir):
+  - Our vacation plans were thwarted by the airline pilots' strike (greve).
+- **pleading**: showing in an emotional way that you want something urgently (suplicante, implorativo):
+  - I sent pleading e-mails to the IT Department asking for a new computer.
+  - a pleading tone of voice.
+- **grain**: a seed or seeds from a plant, especially a plant like a grass such as rice or wheat (wheat = trigo) (grão, cereais, granulação):
+  - grains of wheat/rice.
+- **lies from lie | present participle: lying | past tense: lay | past participle: lain**: verb (position): to be or move into a horizontal position on a surface:
+  - to lie in bed;
+  - to lie on a beach;
+  - A cat lay in front of the fire.
+  - He lies awake at night, worrying.
+**still lie**: If something lies in a particular place, position, or direction, it is that place, position, direction: (sentido de estar) (This is where it lies)
+  - There's an old pair of shoes of yours lying at/in the bottom of the closet.
+  - The river lies 30 km to the south.
+- **lump**: a piece of a solid substance, usually with no particular shape (caroço, protuberância, pedaço):
+  - a lump of coal;
+  - a sugar lump.
+- **assess**: to judge or decide the amount, value, quantity, or importance of something (avaliar, aferir, estimar):
+  - The insurers will need the assess the flood damage.
+  - They assessed the cost of the flood damage at $2,500.00.
+- **vault credentials**: meaning of **vault**: a room, especially in a bank, with thick walls and a strong door, used to store money or valuable things in safe conditions (cofre) (vault credentials seria como um cofre para suas credenciais/senhas).
+  - the bank vault.
+- **assignment**: a piece of work given to someone, typically as part of their studies or job (tarefa, atribuição):
+  - a freelance/photo assignment.
+  - I have a lot of reading assignments to complete before the end of the term.
+- **hop in/into**: no curso, foi muito usado quando o instrutor iria mostrar a tela para dar algum exemplo prático, no entanto, **hop** segundo o cambridge Dictionary:
+  1. to jump on one foot or to move about in this way:
+    - I tried to hop on my good foot while holding onto Jim.
+  2. to go somewhere quickly or to get into or out of a vehicle quickly:
+    - We hopped up to Canada for the weekend.
+    - I hopped on the bus at the traffic light.
+  3. If a small animal, bird, or insect hops, it moves by jumping on all or two os its feet at the same time:
+    - The rabbit/bird hopped across the grass.
+- **siloed**: separated from other people or things:
+  - Working in a big company, you became very siloed and it was easy to lose touch with the real world.
+  - There are multiple siloed repositories of the same customer information
+  **it also can be**: (of a system, process, department, etc) isolated from others
+    - Managers have been told to break down the walls between siloed applications
+- **adage (It's an age-old adage)**: a wise saying (provérbio, ditado):
+  - He remembered the old adage "Look before you leap". (leap = salto, pulo).
+- **wiggled**: to (cause to) move up and down and/or from side to side with small, quick movements (mexida):
+  - He tried to the control stick but nothing happened.
+  - Her lips wiggle as the walks.
+- **pre-canned** (pré-enlatado): **caned** means preserved and sold in a metal container (enlatado)
+  - canned fruit/tomatoes
+- **poke**: to push a finger or other pointed object quickly into someone or something (cutucar, cotovelada, empurrão):
+  - You'll poke someone in the eye with that umbrella if you're not careful!
+  - Two kids were poking a stick into the gopher role. (gopher = a North American animal that lives in holes that it makes in the ground)
+- **whatnot**: used to refer to an item or items that are not identified but are felt to have something in common with items already named (enfeite, estante, papeleira):
+  - little flashing digital displays, electric zooms and whatnots.
+- **close out sth**: to complete something by doing the last thing that is needed or possible (fechar, liquidar):
+  - They closed out 2003 by winning three of their final five games.
+- **seep**: to move or spread slowly out of a hole or through something (vazar, infiltrar):
+  - Pesticides are seeping out of farmland and into the water supply. (farmland = terras agrícolas)
+- **likewise**: adverb: in the same way (da mesma forma):
+  - Just water these plants twice a week, and likewise the ones in the bedroom.
+  - We put up a fence, and other neighbors did likewise.
+- **drone on**: to talk for a long time in a boring way (falando monotonamente):
+  - Matt is droning on about reserve instance.
+  - He was droning on (and on) about his operation.
+- **indulge**: to allow yourself or another person to have something enjoyable, especially more than is good for you (saciar, satisfazer):
+  - The soccer fans indulged their patriotism, waving frags and singing songs.
+- **to bear**: carry the weight of; support (carregar, suportar) (no curso, foi usado com sentido de carregar a licença já existente do Windows Server para um VM)
+- **nuances**: a very slight difference in appearance, sound, etc (1. Gradação de cor; tonalidade. 2. diferença sutil entre coisas, mais ou menos similares, postas em contrates; matiz, sutiliza.)
+  - The painter has managed to capture every nuance of the woman's expression.
+  - Linguists explore the nuances of language.
+- **waive**: to not demand something you have a right to, or not cause a rule to be obeyed (renunciar, desistir de, abandona, adiar, protelar):
+  - The bank manager waived the charge (= said we didn't have to pay), as we were old and valued customers.
+  - If they waive (= remove) the time limit, many more applications will come in.
+  - He persuaded the delegates to waive (= give up) their objections.
+- **fee waived**: taxa dispensada.
+- **fallback paths** (caminhos alternativos): **fallback**: a fallback plan or position can be used if other plans do not succeed or other things are not available (alternativo)
+- **time frame**: a period of days, weeks, months, etc. within which an activity is intended to happen (prazo):
+  - Have you set a time frame for completing the job?
+  - The new law introduces these changes in/within a fairly long/short time frame.
