@@ -3,7 +3,7 @@ This is a repo intended to list and describe new English words from diversified 
 
 
 ## Sumary
-🔗[How to Find a Remote Job - Indeed Article](#How-to-Find-a-Remote-Job-Indeed-Article)<br />
+🔗[How to Find a Remote Job - Indeed Article](#How-to-Find-a-Remote-Job---Indeed-Article)<br />
 🔗[Microsoft Training Azure Fundamentas](#Microsoft-Training-Azure-Fundamentas)<br />
 
 ### How to Find a Remote Job - Indeed Article
