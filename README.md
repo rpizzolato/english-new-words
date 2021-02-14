@@ -237,3 +237,52 @@ This is a repo intended to list and describe new English words from diversified 
 - **time frame**: a period of days, weeks, months, etc. within which an activity is intended to happen (prazo):
   - Have you set a time frame for completing the job?
   - The new law introduces these changes in/within a fairly long/short time frame.
+**likelihood** 
+**civil unrest**
+**withstand** 
+**sovereignty**
+**trade-off**
+**devising** 
+**underlying** 
+**assess**
+**cutover**
+**prominent** 
+**overlap**
+**rely on**
+**cumbersome**
+**takeaway** 
+**offset** (compensado)
+**accruing**
+**underutilized** 
+**allotment**
+**accruing**
+**multifaceted** 
+**freed up**
+**unaware**
+**offload** 
+**onto**
+**paramount**
+**unforeseen** 
+**yield** 
+**booming** 
+**fulfillment**
+**hard-earned**
+**freed up**
+**unaware**
+**threshold**
+**wiggle** 
+**drill into**
+**whilst**
+**unmet**
+**underpin** 
+**strain** 
+**irreplaceable** 
+**thumbprint** 
+**strive** 
+**eavesdropping** 
+**cumbersome**
+**sovereign**
+**decommission**
+**tenancy**
+**turnkey**
+**forecast**
