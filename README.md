@@ -237,9 +237,12 @@ This is a repo intended to list and describe new English words from diversified 
 - **time frame**: a period of days, weeks, months, etc. within which an activity is intended to happen (prazo):
   - Have you set a time frame for completing the job?
   - The new law introduces these changes in/within a fairly long/short time frame.
-- **likelihood** 
-- **civil unrest**
-- **withstand** 
+- **likelihood** : the chance that something will happen (probabilidade)
+  - There's not much likelihood of that happening
+- civil **unrest**: disagreements of fighting between different groups of people (agitação *civil*)
+  - It is feared that the civil unrest we are now witnessing in this country could lead to full-scale civil war.
+- **withstand**: to be strong enough, or not to be changed by something, or to oppose a person or thing successfully (resistir a)
+  - a bridge designed to withstand earthquakes.
 - **sovereignty**
 - **trade-off**
 - **devising** 
