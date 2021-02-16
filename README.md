@@ -5,6 +5,7 @@ This is a repo intended to list and describe new English words from diversified 
 ## Sumary
 🔗[How to Find a Remote Job - Indeed Article](#How-to-Find-a-Remote-Job---Indeed-Article)<br />
 🔗[Microsoft Training Azure Fundamentas](#Microsoft-Training-Azure-Fundamentas)<br />
+🔗[AWS Certified Cloud Practitioner](#AWS Certified Cloud Practitioner)<br />
 
 ### How to Find a Remote Job - Indeed Article
 🌎 [How to Find a Remote Job - Indeed Article](https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-remote-job?from=career_guide_email&isid=careeradvice-us&ikw=career_guide_newsletter_2020_08_26_jsx_for_cg_us_template_a&utm_campaign=jsx_for_cg&utm_source=jobseeker_email&utm_medium=email)
@@ -243,10 +244,13 @@ This is a repo intended to list and describe new English words from diversified 
   - It is feared that the civil unrest we are now witnessing in this country could lead to full-scale civil war.
 - **withstand**: to be strong enough, or not to be changed by something, or to oppose a person or thing successfully (resistir a)
   - a bridge designed to withstand earthquakes.
-- **sovereignty**
-- **trade-off**
-- **devising** 
-- **underlying** 
+- **sovereignty**: the power of a country to control its own government (soberania)
+  - Talks are being held about who should have sovereignty over the island.
+- **trade-off**: a situation in which you balance two opposing situation or qualities (troca)
+  - There is a trade-off between doing the job accurately and doing it quickly.
+- **devising**: to invent a plan, system, object, etc., usually using the intelligence or imagination (inventando)
+  - He devised a new way to treat mental depression.
+- **underlying**:
 - **assess**
 - **cutover**
 - **prominent** 
@@ -289,3 +293,35 @@ This is a repo intended to list and describe new English words from diversified 
 - **tenancy**
 - **turnkey**
 - **forecast**
+- **accrue** 
+- **seamlessly**
+
+### AWS Certified Cloud Practitioner
+
+- **drill down (the billing)**
+- **tailor**
+- **beforehand**
+- **decouple**
+- **enroll**
+- **overall**
+- **aware**
+- **awareness**
+- **stacked area**
+- **mitigate** (suavizar)
+- **expenditure**
+- **detrimental**
+- **utmost**
+- **corollary**
+- **sloppy** (with my account management)
+- **assessments**
+- **lone**
+- **scrub**
+- **effectiveness**
+- **forecasting**
+- **procurement**
+- **bid**
+- **edge locations**
+- **break down** (decompor, desmembrar)
+- **wherein**
+- **concierge**
+- **gilded**
