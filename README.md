@@ -325,3 +325,10 @@ This is a repo intended to list and describe new English words from diversified 
 - **wherein**
 - **concierge**
 - **gilded**
+- **amongst**
+- **up-to-the-minute**
+- **haste**
+- **awareness**
+- **stringent**
+- **whilst**
+- **nonetheless**
