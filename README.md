@@ -250,7 +250,7 @@ This is a repo intended to list and describe new English words from diversified 
   - There is a trade-off between doing the job accurately and doing it quickly.
 - **devising**: to invent a plan, system, object, etc., usually using the intelligence or imagination (inventando)
   - He devised a new way to treat mental depression.
-- **underlying**:
+- **underlying**: 
 - **assess**
 - **cutover**
 - **prominent** 
@@ -334,3 +334,13 @@ This is a repo intended to list and describe new English words from diversified 
 - **nonetheless**
 - **utilize**
 - **acquire**
+- **outlining**
+- **leverage**
+- **responsiveness**
+- **cumbersome**
+- **linger**
+- **tackle**
+- **loose coupling**
+- **evolve**
+- **foresee**
+- **foreseeable**
