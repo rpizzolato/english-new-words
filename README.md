@@ -344,3 +344,11 @@ This is a repo intended to list and describe new English words from diversified 
 - **evolve**
 - **foresee**
 - **foreseeable**
+- **likelihood**
+- **hence**
+- **bottlenecks**
+- **inquiry**
+- **personnel**
+- **allay**
+- **insulated**
+- **inconspicious**
