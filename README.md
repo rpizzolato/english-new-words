@@ -6,6 +6,7 @@ This is a repo intended to list and describe new English words from diversified 
 🔗[How to Find a Remote Job - Indeed Article](#How-to-Find-a-Remote-Job---Indeed-Article)<br />
 🔗[Microsoft Training Azure Fundamentas](#Microsoft-Training-Azure-Fundamentas)<br />
 🔗[AWS Certified Cloud Practitioner](#AWS Certified Cloud Practitioner)<br />
+🔗[Exame AZ-104: Microsoft Azure Administrator](#Exame AZ-104: Microsoft Azure Administrator)<br />
 
 ### How to Find a Remote Job - Indeed Article
 🌎 [How to Find a Remote Job - Indeed Article](https://www.indeed.com/career-advice/finding-a-job/how-to-find-a-remote-job?from=career_guide_email&isid=careeradvice-us&ikw=career_guide_newsletter_2020_08_26_jsx_for_cg_us_template_a&utm_campaign=jsx_for_cg&utm_source=jobseeker_email&utm_medium=email)
@@ -352,3 +353,19 @@ This is a repo intended to list and describe new English words from diversified 
 - **allay**
 - **insulated**
 - **inconspicious**
+
+### Exame AZ-104: Microsoft Azure Administrator
+- **overlap**
+- **mileage**
+- **foreseeable**
+- **stringent**
+- **conversely**
+- **eavesdropping**
+- **scrutinizes**
+- **traversing**
+- **readiness**
+- ****
+- ****
+- ****
+- ****
+- ****
